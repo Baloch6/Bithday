@@ -32,21 +32,6 @@ Wishing you a day filled with love, laughter, and joy. Have an amazing year ahea
 Best Wishes For Your Future
 </h1>
 
-</head>
-<body>
-
-<h1 
-<video class="friend-video"
-        
-src="<html 
-    
-
-        type="video/mp4">
-        
-    </video>
-
-</h1>
-
 
 
 
