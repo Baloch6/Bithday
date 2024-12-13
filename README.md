@@ -5,8 +5,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <input type="text" width="500"
     
 </head>
 <body>
@@ -15,9 +15,10 @@
         <p class="message">
         <img class="friend-photo" src="https://github.com/Baloch6/Bithday/raw/main/pexels-thatguycraig000-1543762.jpg  " alt="Friend's Photo">
 
+
 <h1 class="message">
-    Happy Birthday! <br>  My Jaan Usama Malik 
-    Programmer🎀🎀 <br>
+    Happy Birthday!   My Jaan Usama Malik 
+    Programmer🎀🎀 
 
 
 <img
