@@ -30,14 +30,22 @@ alt="friend photo">
 <h1 class="message">
 Allah Bless you Happiness! <br>
 Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead! 
-    
-Best Wishes For Your Future! <br>
+</h1>
 
+
+<h1 class="message ">
+Best Wishes For Your Future! <br>
+</h1>
+
+
+<h1 class="message">
 From: Abdullah Baloch 
 </h1>
 
 
-<h1 class= "message">
+
+
+<h2 class= "message">
 This Website page created by Abdullah Baloch
-</h1>
+</h2>
 
