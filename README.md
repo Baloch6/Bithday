@@ -1,7 +1,5 @@
 
 
-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -31,9 +29,11 @@ alt="friend photo">
 
 <h1 class="message">
 Allah Bless you Happiness! <br>
-Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead! <br>
+Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead! 
     
-Best Wishes For Your Future!
+Best Wishes For Your Future! <br>
+
+Made by: Abdullah Baloch 
 </h1>
 
-# From Abdullah Baloch 
+
