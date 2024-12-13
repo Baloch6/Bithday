@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <input type="text" width="500" height="100"
+    <input type="text" width="1000" 
     
 </head>
 <body>
