@@ -27,18 +27,12 @@ alt="friend photo">
 
     🎉🎉🎉🌹🌹🌹💝💝💝
     
-<h1 class="message">
-    Let's Recall Our Best Moments
-<img
-src="
-https://github.com/Baloch6/Bithday/raw/main/Snapchat-1289398798%20(1).jpg"
-alt="friend photo">
-
+</h1>
 
 <h1 class="message">
 Allah Bless you Happiness! Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead! <br>
     
-Best Wishes For Your Future
+Best Wishes For Your Future!
 </h1>
 
-
+# From Abdullah Baloch 
