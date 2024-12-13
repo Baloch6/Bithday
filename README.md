@@ -1,7 +1,7 @@
 # Happy Bithday!
 # Usama Jaan
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,11 +15,6 @@
         <p class="message">Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!</p>
         <img class="friend-photo" src="https://github.com/Baloch6/Bithday/blob/main/pexels-thatguycraig000-1543762.jpg  " alt="Friend's Photo">
     </div>
-<img class="friend-photo" src="photo  " alt="Friend's Photo">
-    </div>
-
-
-
     
 </body>
 </html>
