@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device+width, initial-scale=2.0">
     
     
 </head>
@@ -21,14 +21,12 @@
     Programmer!
     🎉🎉🎉🌹🌹🌹💝💝💝
 </h1>
-<h1 class="message">Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!</h1>
-    
 <h1 class="message">
-Allah Bless you Happiness 
-
-
-
+Allah Bless you Happiness <br>
+Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!<br>
 </h1>
+    
+
 
 
 <img
