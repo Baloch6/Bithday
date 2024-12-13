@@ -16,8 +16,7 @@
         <img class="friend-photo" src="https://github.com/Baloch6/Bithday/raw/main/pexels-thatguycraig000-1543762.jpg  " alt="Friend's Photo">
 
 <h1 class="message">
-    Happy Birthday! <br>
-    My Jaan Usama Malik <br>
+    Happy Birthday! <br>  My Jaan Usama Malik 
     Programmer🎀🎀 <br>
 
 
@@ -32,17 +31,6 @@ Wishing you a day filled with love, laughter, and joy. Have an amazing year ahea
 Best Wishes For Your Future
 </h1>
 
-<h1> 
-</h1>
-<div class="video-container">
-<video class="friend video"
-controls>
-<source
-src="https://github.com/Baloch6/Bithday/raw/main/84282c9ddd862cb2e9824f55f331912d.mp4"
-type="video/mp4">
-
-</video>
-</div>
 
 
 
