@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device+width, initial-scale=2.0">
+    <meta name="viewport" content="width=device-width, initial-scale=2.0">
     
     
 </head>
@@ -16,14 +16,14 @@
         <img class="friend-photo" src="https://github.com/Baloch6/Bithday/raw/main/pexels-thatguycraig000-1543762.jpg  " alt="Friend's Photo">
     
 <h1 class="message">
-    Happy Birthday!
-    My Jaan Usama Malik!
-    Programmer!
+    Happy Birthday! <br>
+    My Jaan Usama Malik <br>
+    Programmer! <br>
     🎉🎉🎉🌹🌹🌹💝💝💝
 </h1>
 <h1 class="message">
 Allah Bless you Happiness <br>
-Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!<br>
+Wishing you a day filled with love, laughter, and joy. Have an amazing year ahead!
 </h1>
     
 
