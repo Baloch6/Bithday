@@ -30,6 +30,6 @@ Wishing you a day filled with love, laughter, and joy. Have an amazing year ahea
 
 
 <img
-src="https://github.com/Baloch6/Bithday/blob/main/Snapchat-1276464994.jpg"
+src="https://github.com/Baloch6/Bithday/raw/main/IMG-20241213-WA0016.jpg"
 alt="friend photo">
 
