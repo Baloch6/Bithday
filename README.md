@@ -30,7 +30,7 @@ alt="friend photo">
    <br> 🎉🎉🎉🌹🌹🌹💝💝💝
     
 
-<p class="message">
+<h1 class="message">
 Allah Bless you Happiness! <br>
 Wishing you a day filled with love, laughter, and joy. <br> 
 Having you  as my Friend is life’s greatest gift — my strength, my joy. <br>
