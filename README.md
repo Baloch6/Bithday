@@ -24,7 +24,7 @@ Love You Jaan Always keep Smiling <br>
 
 
 <img
-src="https://github.com/Baloch6/Bithday/raw/main/IMG-20241213-WA0016.jpg"
+src="https://github.com/Baloch6/Bithday/raw/main/storage/emulated/0/DCIM/Snapchat/Snapchat-2064992240 (1).jpg "
 alt="friend photo">
 
    <br> 🎉🎉🎉🌹🌹🌹💝💝💝
