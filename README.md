@@ -32,8 +32,8 @@ alt="friend photo">
 </h1>
 <style>
 textarea {
-height: 200px;
-width: 3000px;}
+height: 200 px;
+width: 3000 px;}
 <h1 class="message">
 Allah Bless you Happiness! <br>
 Wishing you a day filled with love, laughter, and joy. <br> 
