@@ -24,22 +24,18 @@ Love You Jaan Always keep Smiling <br>
 
 
 <img
-src="https://github.com/Baloch6/Bithday/raw/main/storage/emulated/0/DCIM/Snapchat/Snapchat-2064992240 (1).jpg "
+src="https://github.com/Baloch6/Bithday/raw/main/Snapchat-2064992240 (1).jpg"
 alt="friend photo">
 
    <br> 🎉🎉🎉🌹🌹🌹💝💝💝
     
-</h1>
-<style>
-textarea {
-height: 200 px;
-width: 3000 px;}
-<h1 class="message">
+
+<p class="message">
 Allah Bless you Happiness! <br>
 Wishing you a day filled with love, laughter, and joy. <br> 
 Having you  as my Friend is life’s greatest gift — my strength, my joy. <br>
 
-<br> Through every laugh and every fight, our bond only grows stronger — Happy Birthday Day to my amazing Friend! <br>
+<br> <p> Through every laugh and every fight, our bond only grows stronger — Happy Birthday Day to my amazing Friend! </p> <br>
 
 You are more than Friend; you are my protector, supporter, and partner in every crazy memory. <br>
 
