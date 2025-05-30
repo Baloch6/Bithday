@@ -30,7 +30,10 @@ alt="friend photo">
    <br> 🎉🎉🎉🌹🌹🌹💝💝💝
     
 </h1>
-
+<style>
+textarea {
+height: 200px;
+width: 300px;
 <h1 class="message">
 Allah Bless you Happiness! <br>
 Wishing you a day filled with love, laughter, and joy. <br> 
