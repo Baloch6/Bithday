@@ -33,9 +33,10 @@ alt="friend photo">
 
 <h1 class="message">
 Allah Bless you Happiness! <br>
-Wishing you a day filled with love, laughter, and joy. <br> Having you  as my Friend is life’s greatest gift — my strength, my joy. <br>
+Wishing you a day filled with love, laughter, and joy. <br> 
+Having you  as my Friend is life’s greatest gift — my strength, my joy. <br>
 
-Through every laugh and every fight, our bond only grows stronger — Happy Birthday Day to my amazing Friend! <br>
+<br> Through every laugh and every fight, our bond only grows stronger — Happy Birthday Day to my amazing Friend! <br>
 
 You are more than Friend; you are my protector, supporter, and partner in every crazy memory. <br>
 
